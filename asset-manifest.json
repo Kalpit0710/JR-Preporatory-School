@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/JR-Preporatory-School/static/css/main.4df721ca.css",
+    "main.js": "/JR-Preporatory-School/static/js/main.b60247df.js",
+    "static/media/15.jpg": "/JR-Preporatory-School/static/media/15.d2574668326557c94440.jpg",
+    "static/media/11.jpg": "/JR-Preporatory-School/static/media/11.cfee098dd32612f5ee09.jpg",
+    "static/media/14.jpg": "/JR-Preporatory-School/static/media/14.8e26f164f6293dcda24b.jpg",
+    "static/media/2.jpg": "/JR-Preporatory-School/static/media/2.05a6c17d64f833f3be4a.jpg",
+    "static/media/6.jpg": "/JR-Preporatory-School/static/media/6.15492df7f004a0137eae.jpg",
+    "static/media/5.jpg": "/JR-Preporatory-School/static/media/5.28b4cee109a6f5e681fc.jpg",
+    "static/media/7.jpg": "/JR-Preporatory-School/static/media/7.7ade1e42fd23b188c110.jpg",
+    "static/media/1.jpg": "/JR-Preporatory-School/static/media/1.b3f5281dc7ffa00c40e3.jpg",
+    "static/media/9.jpg": "/JR-Preporatory-School/static/media/9.c7ce60d165cf6765c98e.jpg",
+    "static/media/4.jpg": "/JR-Preporatory-School/static/media/4.57a75d65d042264a3539.jpg",
+    "static/media/8.jpg": "/JR-Preporatory-School/static/media/8.65f9916cbb4abca48fb8.jpg",
+    "static/media/principal.jpg": "/JR-Preporatory-School/static/media/principal.11d7cb70b37dc5fe4f6d.jpg",
+    "static/media/13.jpg": "/JR-Preporatory-School/static/media/13.0f560448daa8c8e03960.jpg",
+    "static/media/16.jpg": "/JR-Preporatory-School/static/media/16.e7e896b5f74a3210d3f3.jpg",
+    "static/media/12.jpg": "/JR-Preporatory-School/static/media/12.97e5247dc04bf4330dd0.jpg",
+    "static/media/3.jpg": "/JR-Preporatory-School/static/media/3.067edca7e72e82b9b048.jpg",
+    "static/media/21.jpg": "/JR-Preporatory-School/static/media/21.0f67cf1a3b133faef9d3.jpg",
+    "static/media/10.jpg": "/JR-Preporatory-School/static/media/10.1b729c62db8d6184c748.jpg",
+    "static/media/18.jpg": "/JR-Preporatory-School/static/media/18.6de4eeee5a4a74d621ea.jpg",
+    "static/media/20.jpg": "/JR-Preporatory-School/static/media/20.dc253109690cb7e9cbad.jpg",
+    "static/media/19.jpg": "/JR-Preporatory-School/static/media/19.8a3751b1deebdc7bd9ea.jpg",
+    "static/media/17.jpg": "/JR-Preporatory-School/static/media/17.b98f492af946654f23c8.jpg",
+    "index.html": "/JR-Preporatory-School/index.html",
+    "main.4df721ca.css.map": "/JR-Preporatory-School/static/css/main.4df721ca.css.map",
+    "main.b60247df.js.map": "/JR-Preporatory-School/static/js/main.b60247df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df721ca.css",
+    "static/js/main.b60247df.js"
+  ]
+}
